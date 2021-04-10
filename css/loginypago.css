@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.navloginypago{
+    width:100%;
+    height:117px;
+    box-shadow: 5px 5px 5px #909090;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    position:fixed;
+    background-color:white;
+}
+
+.logo-letra{
+    width:280px;
+    height: 60px;
+}
+
+.espaciobajonav{
+    width:100%;
+    height:117px;
+}
+
+.titulologinypago{
+    font-size:72px;
+    font-family:"Libre Baskerville";
+    height:117px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:#0A3A66;
+}
+
+.formulariopagoydetalle{
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+
+.formularioypago{
+    display:grid;
+    grid-template-rows: 50% 50%;
+}
+
+.divformulario{
+    margin:15px;
+    box-shadow: 5px 5px 5px 5px #909090;
+    border-radius:15px;
+}
+
+.pago{
+    height:700px;
+    margin:15px;
+    box-shadow: 5px 5px 5px 5px #909090;
+    border-radius:15px;
+}
+
+.textotitulos{
+    font-size:32px;
+    padding:5px;
+}
+
+.parrafoformulario{
+    padding:5px;
+}
+
+.divinputformulario{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.divselectformulario{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.inputformulario{
+    margin:5px 0px;
+    padding:5px 0;
+    width:90%;
+    display:block;
+}
+
+
